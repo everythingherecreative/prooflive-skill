@@ -1,6 +1,6 @@
 # Prooflive.ai agent skill
 
-Build a business website with your own AI agent and put it live with [Prooflive.ai](https://prooflive.ai?utm_source=github&utm_medium=skill): real HTML pages on your own domain, hosted in London, with SSL, email on your domain, an enquiries inbox, a blog and search set up automatically. Free to build and preview; from £19 a month when it goes live.
+Build a business website with your own AI agent and put it live with [Prooflive.ai](https://prooflive.ai?utm_source=github&utm_medium=skill): real HTML pages on your own domain, hosted in London, with SSL, email on your domain, an enquiries inbox, a blog and search set up automatically. Free to build and preview; from £24 a month when it goes live.
 
 Works with Claude Code, Codex, Cursor, Gemini CLI, GitHub Copilot and Windsurf.
 
