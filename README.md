@@ -9,20 +9,20 @@ Works with Claude Code, Codex, Cursor, Gemini CLI, GitHub Copilot and Windsurf.
 Any agent that supports skills:
 
 ```bash
-npx skills add nickcarteruk1/prooflive-skill
+npx skills add everythingherecreative/prooflive-skill
 ```
 
 Claude Code:
 
 ```
-/plugin marketplace add nickcarteruk1/prooflive-skill
+/plugin marketplace add everythingherecreative/prooflive-skill
 /plugin install prooflive@prooflive
 ```
 
 Gemini CLI:
 
 ```bash
-gemini extensions install https://github.com/nickcarteruk1/prooflive-skill
+gemini extensions install https://github.com/everythingherecreative/prooflive-skill
 ```
 
 ## Use
